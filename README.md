@@ -1,5 +1,3 @@
-# til-template
-
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [5월 둘째주, 1주차] : Java, Git, 객체지향
